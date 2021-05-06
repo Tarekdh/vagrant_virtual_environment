@@ -13,7 +13,7 @@ this project create a virtual machine for you with [this box](https://app.vagran
 
 the app is accessible from 
 
-- [192.168.33.10](192.168.33.10:4443)
-- [127.0.0.1](127.0.0.1:8080)
+- 192.168.33.10:4443
+- 127.0.0.1:8080
 
 

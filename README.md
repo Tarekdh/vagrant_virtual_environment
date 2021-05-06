@@ -11,9 +11,9 @@ this project create a virtual machine for you with [this box](https://app.vagran
 
 # How to use
 
-clone the project
+- clone the project
 
-run vagrant up
+- run `vagrant up`
 
 # How to access
 
